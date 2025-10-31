@@ -1,6 +1,6 @@
 # Hi there, I'm Shiva Dev 👋  
 
-🎯 **Quality Assurance Engineer | Automation Tester | SDET**  
+🎯 **Quality Assurance Engineer | Functional & Automation Tester **  
 💼 4+ years of experience in **Manual and Automation Testing** across Web & API applications.  
 🔍 Passionate about ensuring software quality through efficient automation, strong frameworks, and data-driven testing.  
 💡 Continuously learning new tools, improving frameworks, and driving QA excellence in Agile teams.
